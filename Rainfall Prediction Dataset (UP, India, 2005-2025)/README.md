@@ -4,7 +4,7 @@ A machine learning project for predicting rainfall using meteorological variable
 
 ## Notebook
 
-**Kaggle Notebook:** [Click Here]([(https://www.kaggle.com/code/rupsarroy/uttar-pradesh-india-rainfall-prediction])
+**Kaggle Notebook:** [Click Here](https://www.kaggle.com/code/rupsarroy/uttar-pradesh-india-rainfall-prediction)
 
 ## Dataset
 
