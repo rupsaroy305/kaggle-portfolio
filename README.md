@@ -35,17 +35,24 @@ Each project is organized in its own folder and typically includes:
 *  Results and performance metrics
 *  Dataset and Kaggle notebook links (when applicable)
 
+## 📂 Repository Structure
+
 ```text
 Kaggle-Portfolio/
 │
 ├── README.md
-├── Heart Disease Classification/
-├── Stellar Classification/
-├── NeuroGolf 2026/
-├── Checkers Gameplay/
-├── Heatwave Prediction/
-└── ...
+│
+├── Competitions/
+│   ├── playground-series-s6e6-stellar-object-classification/
+│   └── NeuroGolf Championship/
+│
+└── Datasets/
+    ├── Heatwave Dataset/
+    ├── Australian Red Wine Forecast/
+    └── Rainfall Prediction/
 ```
+
+
 
 ---
 
