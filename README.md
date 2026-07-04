@@ -6,6 +6,14 @@ As a **Kaggle Expert**, I enjoy solving real-world data science problems through
 
 ---
 
+##  Kaggle Profile
+
+Explore my Kaggle profile for my latest notebooks, competition submissions, and achievements.
+
+ **[https://www.kaggle.com/rupsarroy]**
+
+---
+
 ##  Repository Structure
 
 Each project is organized in its own folder and typically includes:
@@ -72,13 +80,7 @@ Kaggle-Portfolio/
 
 ---
 
-##  Kaggle Profile
 
-Explore my Kaggle profile for my latest notebooks, competition submissions, and achievements.
-
- **[https://www.kaggle.com/rupsarroy]**
-
----
 
 ##  Highlights
 
