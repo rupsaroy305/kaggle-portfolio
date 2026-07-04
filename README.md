@@ -35,7 +35,7 @@ Each project is organized in its own folder and typically includes:
 *  Results and performance metrics
 *  Dataset and Kaggle notebook links (when applicable)
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Kaggle-Portfolio/
@@ -45,11 +45,15 @@ Kaggle-Portfolio/
 ├── Competitions/
 │   ├── playground-series-s6e6-stellar-object-classification/
 │   └── NeuroGolf Championship/
+│   └── .../
+
 │
 └── Datasets/
     ├── Heatwave Dataset/
     ├── Australian Red Wine Forecast/
     └── Rainfall Prediction/
+│   └── .../
+
 ```
 
 
