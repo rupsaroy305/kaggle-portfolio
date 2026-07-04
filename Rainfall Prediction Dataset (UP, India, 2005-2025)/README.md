@@ -8,7 +8,7 @@ A machine learning project for predicting rainfall using meteorological variable
 
 ## Dataset
 
-**Rainfall Prediction Dataset:** [Click Here]([https://www.kaggle.com/datasets/rupsarroy/rainfall-dataset-uttar-pradesh-20052025])
+**Rainfall Prediction Dataset:** [Click Here](https://www.kaggle.com/datasets/rupsarroy/rainfall-dataset-uttar-pradesh-20052025/data)
 
 ## Key Topics
 
