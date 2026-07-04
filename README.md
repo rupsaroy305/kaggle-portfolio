@@ -14,6 +14,18 @@ Explore my Kaggle profile for my latest notebooks, competition submissions, and 
 
 ---
 
+
+##  Kaggle Achievements
+
+*  **Kaggle Expert** 
+*  **3× Bronze Medals** in Kaggle Datasets
+*  Published datasets used by the Kaggle community
+*  Built and shared machine learning notebooks and end-to-end data science projects
+*  Actively participating in Kaggle competitions and contributing to the platform
+
+
+---
+
 ##  Repository Structure
 
 Each project is organized in its own folder and typically includes:
