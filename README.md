@@ -43,16 +43,15 @@ Kaggle-Portfolio/
 ├── README.md
 │
 ├── Competitions/
-│   ├── playground-series-s6e6-stellar-object-classification/
-│   └── NeuroGolf Championship/
-│   └── .../
-
+    ├── playground-series-s6e6-stellar-object-classification/
+    └── NeuroGolf Championship/
+    └── .../
 │
 └── Datasets/
     ├── Heatwave Dataset/
     ├── Australian Red Wine Forecast/
     └── Rainfall Prediction/
-│   └── .../
+    └── .../
 
 ```
 
