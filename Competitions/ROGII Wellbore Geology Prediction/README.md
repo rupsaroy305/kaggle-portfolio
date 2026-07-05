@@ -66,6 +66,16 @@ Machine learning pipeline for predicting **True Vertical Thickness (TVT)** from 
 * Matplotlib
 * Scikit-learn
 
+## Repository Structure
+
+```text
+ROGII Wellbore Geology Prediction/
+│
+├── tvt-prediction-with-histgradientboosting-eda-fe.ipynb
+├── README.md
+└── submission.zip (generated)
+```
+
 ## Future Improvements
 
 * GroupKFold cross-validation
