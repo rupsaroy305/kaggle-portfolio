@@ -8,7 +8,7 @@ Machine learning pipeline for predicting **True Vertical Thickness (TVT)** from 
 
 ## Competition
 
-**Rogii Wellbore Geology Prediction:** [Click Here](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/code?competitionId=132265&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+**Rogii Wellbore Geology Prediction:** [Click Here](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/overview)
 
 ## Key Topics
 
