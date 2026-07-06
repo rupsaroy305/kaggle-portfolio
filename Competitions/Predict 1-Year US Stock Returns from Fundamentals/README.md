@@ -53,10 +53,16 @@ Multiple CatBoost configurations were evaluated by varying model depth, learning
 
 ---
 
-##  Files
+##  Repository Structure
 
-* `Stock Return Prediction | CatBoost V1.ipynb` — Complete notebook
-* `submission.csv` — Competition submission file
+```text
+Stock-Return-Prediction-with-CatBoost/
+│
+├── forecasting-stock-returns-with-catboost.ipynb   # Complete CatBoost notebook
+├── submission.csv                                  # Generated competition submission
+├── README.md                                       # Project documentation
+└── LICENSE                                         # Optional
+```
 
 ---
 
