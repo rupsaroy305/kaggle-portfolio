@@ -1,4 +1,4 @@
-#  Stock Return Prediction with CatBoost
+#  Forecasting Stock Returns with CatBoost
 
 A baseline machine learning solution for predicting **1-year forward returns of US-listed stocks** using company fundamental data derived from SEC filings.
 
@@ -56,12 +56,12 @@ Multiple CatBoost configurations were evaluated by varying model depth, learning
 ##  Repository Structure
 
 ```text
-Stock-Return-Prediction-with-CatBoost/
+Predict-1-Year-US-Stock-Returns-from-Fundamentals/
 │
 ├── forecasting-stock-returns-with-catboost.ipynb   # Complete CatBoost notebook
 ├── submission.csv                                  # Generated competition submission
 ├── README.md                                       # Project documentation
-└── LICENSE                                         # Optional
+
 ```
 
 ---
