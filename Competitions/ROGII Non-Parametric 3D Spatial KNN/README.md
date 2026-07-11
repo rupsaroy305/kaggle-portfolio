@@ -120,7 +120,7 @@ A **Savitzky–Golay filter** is applied independently to each well to generate 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Geometry-based prediction
 - 3D spatial nearest-neighbor search
