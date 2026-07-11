@@ -131,6 +131,14 @@ A **Savitzky–Golay filter** is applied independently to each well to generate 
 
 ---
 
+##  Results
+
+| **Public Leaderboard Score:** | **165.426** |
+
+This notebook establishes a **geometry-driven baseline** for the ROGII Wellbore Geology Prediction challenge. While it does not rely on machine learning, it demonstrates the predictive capability of purely spatial interpolation using **3D K-Nearest Neighbors (KNN)**, **Inverse Distance Weighting (IDW)**, and trajectory smoothing.
+
+---
+
 ##  Future Improvements
 
 This notebook serves as a deterministic baseline. Future iterations may incorporate:
