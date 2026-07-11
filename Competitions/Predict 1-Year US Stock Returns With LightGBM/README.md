@@ -8,7 +8,7 @@
 
 Predicting stock returns is a challenging regression problem due to noisy financial data, missing values, and extreme market movements. This project builds a robust machine learning pipeline that leverages company financial metrics to forecast future stock returns.
 
-The workflow covers the complete machine learning lifecycle—from exploratory data analysis and preprocessing to model training, evaluation, and Kaggle submission generation.
+The workflow covers the complete machine learning lifecycle from exploratory data analysis and preprocessing to model training, evaluation, and Kaggle submission generation.
 
 ---
 
@@ -92,7 +92,7 @@ Submission.csv
 
 ---
 
-##  Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 The notebook investigates:
 
@@ -108,7 +108,7 @@ A key observation was that the **training dataset contains real stock tickers**,
 
 ---
 
-##  Data Preprocessing
+**Data Preprocessing**
 
 The preprocessing pipeline includes:
 
@@ -130,7 +130,7 @@ Median imputation was chosen because financial variables contain numerous outlie
 
 ---
 
-##  Model
+**Model**
 
 The primary model used is:
 
@@ -146,7 +146,7 @@ Performance was evaluated using **5-Fold Cross Validation** with Root Mean Squar
 
 ---
 
-##  Target Engineering
+**Target Engineering**
 
 One of the largest performance improvements came from analyzing the target distribution.
 
@@ -165,8 +165,8 @@ This substantially improved validation performance.
 
 | Metric | Score |
 |--------|------:|
-| **Public Score** | **15184.81575** |
-| **Leaderboard Rank** | **194 / 329** |
+| **Public Score** | 15184.81575 |
+| **Leaderboard Rank** | 194 / 329 |
 | **Model** | LightGBM Regressor |
 | **Evaluation Metric** | RMSE |
 
