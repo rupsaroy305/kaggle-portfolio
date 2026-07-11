@@ -8,7 +8,7 @@ Instead of relying on machine learning models, this project leverages the spatia
 
 ##  Notebook
 
-**Kaggle ROGII Notebook:**: [Click Here](https://www.kaggle.com/code/rupsarroy/non-para-3d-spatial-knn-and-idw-interpolation)
+**Kaggle ROGII Notebook**: [Click Here](https://www.kaggle.com/code/rupsarroy/non-para-3d-spatial-knn-and-idw-interpolation)
 
 This project explores how far purely spatial reasoning can be pushed before introducing supervised machine learning, providing a strong foundation for more advanced geological prediction pipelines.
 
