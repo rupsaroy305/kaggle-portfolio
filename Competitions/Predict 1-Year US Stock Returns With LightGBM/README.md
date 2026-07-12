@@ -21,7 +21,7 @@ The workflow covers the complete machine learning lifecycle from exploratory dat
 
 ##  Competition
 
-**Competition:** [*Click Here*](https://www.kaggle.com/competitions/predict-1-year-us-stock-returns-from-fundamentals/overview)
+**Predict 1-Year US Stock Returns from Fundamentals:** [*Click Here*](https://www.kaggle.com/competitions/predict-1-year-us-stock-returns-from-fundamentals/overview)
 
 ---
 
@@ -166,7 +166,7 @@ This substantially improved validation performance.
 | Metric | Score |
 |--------|------:|
 | **Public Score** | 15184.81575 |
-| **Leaderboard Rank** | 194 / 329 |
+| **Leaderboard Rank** | 115 / 334 |
 | **Model** | LightGBM Regressor |
 | **Evaluation Metric** | RMSE |
 
