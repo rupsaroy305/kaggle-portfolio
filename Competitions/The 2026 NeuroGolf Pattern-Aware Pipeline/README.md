@@ -38,7 +38,9 @@ The complete pipeline was executed across **400 ARC tasks**, successfully genera
 The notebook also provides a summary of solved tasks, estimated model complexity, memory consumption, and overall framework performance.
 
 
-| **Competition Results** |
+##  Competition Results
+
+| Metric | Score |
 |--------|------:|
 | **Private Score** | 3108.82 |
 | **Leaderboard Rank** | 2118 / 3061 |
