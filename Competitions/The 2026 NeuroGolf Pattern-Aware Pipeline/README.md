@@ -6,7 +6,7 @@ Instead of training a single deep learning model, this project explores a modula
 
 ## Notebook
 
-**Kaggle Notebook:** *Click Here*
+**Kaggle Notebook:** [*Click Here*](https://www.kaggle.com/code/rupsarroy/pattern-aware-onnx-solver-for-arc)
 
 ## Competition
 
@@ -36,6 +36,13 @@ The notebook demonstrates the complete workflow, from representing ARC grids as 
 The complete pipeline was executed across **400 ARC tasks**, successfully generating valid ONNX models for **232 tasks**, achieving a **58.0% task coverage**.
 
 The notebook also provides a summary of solved tasks, estimated model complexity, memory consumption, and overall framework performance.
+
+
+| **Competition Results** |
+|--------|------:|
+| **Private Score** | 3108.82 |
+| **Leaderboard Rank** | 2118 / 3061 |
+
 
 ## Technologies
 
