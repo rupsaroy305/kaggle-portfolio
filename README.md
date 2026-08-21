@@ -88,17 +88,6 @@ Kaggle-Portfolio/
 * Ensemble Learning
 * Model Evaluation
 
----
-
-##  Featured Projects
-
-| Project                      | Topic                        | Status |
-| ---------------------------- | ---------------------------- | ------ |
-| Heart Disease Classification | Binary Classification        | 🚧      |
-| Stellar Classification       | Multi-Class Classification   | ✅      |
-| NeuroGolf 2026               | Machine Learning Competition | 🚧      |
-| Checkers Gameplay            | Machine Learning             | ✅      |
-| Heatwave Prediction          | Climate AI                   | ✅     |
 
 ---
 
