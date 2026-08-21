@@ -64,6 +64,7 @@ Kaggle-Portfolio/
 **Languages**
 
 * Python
+* R
 * SQL
 
 **Libraries**
